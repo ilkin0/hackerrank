@@ -37,5 +37,7 @@ public class DataTypes {
          */
         System.out.println(s1 + s2);
 
+        scanner.close();
+
     }
 }
